@@ -1,4 +1,4 @@
-# Project Title
+# Javascript Task Project
 
 A simple JavaScript project built with Javascript.  
 This repository contains the `script.js` file which demonstrates basic functionality such as prompts, alerts, and dynamic task handling.
